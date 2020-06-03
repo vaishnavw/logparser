@@ -1,0 +1,3 @@
+D:\Workspaces\dotNet Training\logparser\logparser\src\Tests\LogParser.Tests\obj\Debug\netcoreapp3.1\LogParser.Tests.csprojAssemblyReference.cache
+D:\Workspaces\dotNet Training\logparser\logparser\src\Tests\LogParser.Tests\obj\Debug\netcoreapp3.1\LogParser.Tests.AssemblyInfoInputs.cache
+D:\Workspaces\dotNet Training\logparser\logparser\src\Tests\LogParser.Tests\obj\Debug\netcoreapp3.1\LogParser.Tests.AssemblyInfo.cs

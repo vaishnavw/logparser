@@ -1,0 +1,13 @@
+No, Level, Date, Time, Text
+1, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available., 
+2, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available., 
+3, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available., 
+4, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available., 
+5, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: creating mailslot for RSVP via UDP, 
+6, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: creating mailslot for RSVP, 
+7, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: creating mailslot for RSVP, 
+8, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: creating mailslot for RSVP via UDP, 
+9, WARN, 22 March 2020, 8:51 AM, :.....mailslot_create: creating mailslot for RSVP via UDP, 
+10, WARN, 22 March 2020, 8:51 AM, :....mailbox_register: mailbox allocated for rsvp-udp, 
+11, WARN, 22 March 2020, 8:51 AM, :....mailbox_register: mailbox allocated for rsvp, 
+12, WARN, 22 March 2020, 8:51 AM, :.main: rsvpd initialization complete, 
